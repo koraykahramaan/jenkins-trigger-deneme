@@ -15,8 +15,6 @@ pipeline {
     }
 
     // this section configures triggers
-    triggers {
-    }
 
     // the pipeline section we all know and love: stages! :D
     stages {
